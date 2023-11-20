@@ -1,7 +1,7 @@
 local solarized_normal = require('solarized.solarized-normal.highlights')
 local darkColors = {
 	none = {'none', 'none'},
-	base02  = {'#073642',23},
+	base02  = {'#073642',0},
 	red     = {'#dc322f',203},
 	green   = {'#859900',142},
 	yellow  = {'#b58900',178},
